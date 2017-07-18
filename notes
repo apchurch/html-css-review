@@ -1,0 +1,7 @@
+Git and github
+
+git: command line software. runs locally, on one computer, from the terminal. let's us create repositories to track history of a project.
+
+github: just a website that lets you upload git repositories
+
+3 zones: work tree your actual files), staging area 
