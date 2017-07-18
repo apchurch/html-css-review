@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="/main.css">
+        <title>Welcome</title>
+    </head>
+    <body>
+        <form>
+            <div><h1>Login Form</h1></div>
+            <div><span class="label">Username: </span><input name="username"></div>
+            <div><span class="label">Password: </span><input name="password"></div>
+            <div><span class="label">Profile Picture: </span><input name="profile picture"></div>
+            <div><span class="label">Birthday: </span><input name="birthday"></div>
+        </form>
+    </body>
+</html>
